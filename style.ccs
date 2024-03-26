@@ -1,0 +1,17 @@
+!DOCTYPE html>
+<html>
+<head>
+    <title>Tarayıcıda görünecek sekmenin adı</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>TEKNOLOJİ BAĞIMLIĞINA NE ENGEL OLABİLİR Kİ!</h1>
+    <p>Bu yazı bir teknoloji bağımlısı tarafından yazılıyor!</p>
+    <h2>Teknoloji bağımlılığına benim için engel olacak kişi psikolog anne baba vs. değil. Sadece bağımlınını kendisidir."Benim lafım değil bu arada: )" İŞTE BAZI BAĞIMLILIKLAR: </h2>
+             <ul>
+                   <li>OYUNLARA BAĞIMLILIK(lise çağı öğrencisi için bir baş belasıdır).</li>
+                   <li>BAŞKA HAYATLARA BAĞIMLILIK(bu herkes için bir baş belası)</li>
+             </ul>
+     <img src="https://images.unsplash.com/photo-1503444200347-fa86187a2797?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW50ZXJuZXQlMjBhZGRpY3R8ZW58MHx8MHx8fDA%3D" alt="Image1">
+</body>
+</html>
